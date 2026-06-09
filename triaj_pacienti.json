@@ -1,0 +1,12 @@
+[
+    {
+        "nume": "Maria Ionescu",
+        "prioritate": 2,
+        "ora_sosire": "2026-06-09 20:27:43"
+    },
+    {
+        "nume": "Ion Popescu",
+        "prioritate": 1,
+        "ora_sosire": "2026-06-09 20:21:06"
+    }
+]
