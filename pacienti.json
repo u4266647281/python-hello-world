@@ -1,0 +1,15 @@
+[
+    {
+        "id": 101,
+        "nume": "Vasilescu",
+        "prenume": "Mihai",
+        "data_nasterii": "1975-10-31",
+        "alergii": [
+            "polen",
+            "praf"
+        ],
+        "istoric_diagnostic": [
+            "Rinita alergica"
+        ]
+    }
+]

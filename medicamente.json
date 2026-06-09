@@ -1,0 +1,20 @@
+[
+    {
+        "denumire": "claritine",
+        "substanta_activa": "Loratadina",
+        "concentratie": "50 ml",
+        "forma": "Capsulă",
+        "cantitate": 40,
+        "data_expirare": "2026-12-31",
+        "regim_special": false
+    },
+    {
+        "denumire": "Amoxacilina",
+        "substanta_activa": "Amoxicilina",
+        "concentratie": "100mg",
+        "forma": "Capsulă",
+        "cantitate": 450,
+        "data_expirare": "2026-12-31",
+        "regim_special": false
+    }
+]
